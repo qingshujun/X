@@ -1,5 +1,5 @@
 {
-"spider":"./jar/vox.jar","notice": "🧨马到成功！万事胜意！财源广进🧨🎉！", 
+"spider":"./jar/vox.jar","notice": "🧨Welcome!🎉！", 
 "wallpaper":"https://imgs.catvod.com","logo":"https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/junmeng.gif",
 
 "sites": [
@@ -13,11 +13,11 @@
 {"key":"WB","name":"🪶┃歪比┃巴卜","type":3,"api":"csp_wb","homePage":"https://d.kstore.dev/download/15114/html/歪比.html"},
 {"key":"TV52","name":"📺┃52TV┃体育","type":3,"api":"csp_52tv","homePage":"https://d.kstore.dev/download/15114/html/52tv.html"},
 {"key":"Emby","name":"🛬┃Emby┃推荐","type":3,"api":"csp_Emby","homePage":"https://d.kstore.dev/download/15114/html/emby.html"},
-{"key":"Fish","name":"🐟┃FISH┃TMDB","type":3,"api":"csp_Fish","homePage":"https://d.kstore.dev/download/15114/html/fish.html"},
+//{"key":"Fish","name":"🐟┃FISH┃TMDB","type":3,"api":"csp_Fish","homePage":"https://d.kstore.dev/download/15114/html/fish.html"},
 {"key":"Libvio","name":"📚┃LIBVIO┃影视","type":3,"api":"csp_Libvio","homePage":"https://d.kstore.dev/download/15114/html/libvio.html"},
-{"key":"MissAV","name":"🔞┃MissAV┃番号","type":3,"api":"csp_MissAV","homePage":"https://d.kstore.dev/download/15114/html/missav.html"},
-{"key":"Meizi","name":"🍓┃布布追剧┃追剧","type":3,"api":"csp_Meizi","homePage":"https://d.kstore.dev/download/15114/html/布布追剧.html"},
-{"key":"TQ","name":"🍩┃甜圈┃短剧","type":3,"api":"csp_TQ","homePage":"https://d.kstore.dev/download/15114/html/WEb.html"},
+//{"key":"MissAV","name":"🔞┃MissAV┃番号","type":3,"api":"csp_MissAV","homePage":"https://d.kstore.dev/download/15114/html/missav.html"},
+//{"key":"Meizi","name":"🍓┃布布追剧┃追剧","type":3,"api":"csp_Meizi","homePage":"https://d.kstore.dev/download/15114/html/布布追剧.html"},
+//{"key":"TQ","name":"🍩┃甜圈┃短剧","type":3,"api":"csp_TQ","homePage":"https://d.kstore.dev/download/15114/html/WEb.html"},
 {"key":"WhosTV","name":"🔍┃WhosTV┃番号","type":3,"api":"csp_WhosTV","homePage":"https://d.kstore.dev/download/15114/html/whostv.html"},
 {"key":"PPnix","name":"🤡┃PPnix┃影视","type":3,"api":"csp_PPnix","homePage":"https://d.kstore.dev/download/15114/html/ppnix.html"},
 {"key":"PTT","name":"🎬┃PTT┃追剧","type":3,"api":"csp_PTT","homePage":"https://d.kstore.dev/download/15114/html/ptt.html"},
@@ -144,10 +144,10 @@
 ##NAS部署直播
 {"name": "🏄‍♂️┃serv00「直播」","type": 0,"ua": "okhttp","url": "https://alantang.serv00.net/m3u/jtv.m3u"},
 {"name": "🐍┃tangtang「直播」","type": 0,"ua": "okhttp","url": "https://tangtang.ggff.net/m3u/jtv.m3u"},
-//{"name": "🥷┃JunTV「cloudflare」","type": 0,"ua": "okhttp","url": "https://tv.tangtang.us.ci/abc123"},
-//{"name": "🥷┃合集TV「cloudflare」","type": 0,"ua": "","url": "https://abc.tangtang.us.ci/tang1314"},
+{"name": "🥷┃JunTV「cloudflare」","type": 0,"ua": "okhttp","url": "https://abc.junjuntang.ccwu.cc/abc123"},
+{"name": "🥷┃合集TV「cloudflare」","type": 0,"ua": "","url": "https://txt.jessietang.cc.cd/abc123"},
 {"name": "🥷┃mitv「cloudflare」","type": 0,"ua": "","url": "https://mitv.tangtang.us.ci/8520"},
-{"name": "🥷┃广东gdty「cloudflare」","type": 0,"ua": "okhttp","url": "https://abc.junjuntang.ccwu.cc/abc123"},
+//{"name": "🥷┃广东gdty「cloudflare」","type": 0,"ua": "okhttp","url": "https://abc.junjuntang.ccwu.cc/abc123"},
 //{"name": "🥷┃央视卫视zubo「cloudflare」","type": 0,"ua": "okhttp","url": "http://tv.tangtang.ggff.net"},
 {"name": "🥷┃iptv_api「NAS」","type": 0,"ua": "okhttp","url": "http://192.168.110.31:81/m3u"},
 {"name": "🥷┃iptv-spider「NAS」","type": 0,"ua": "okhttp","url": "http://192.168.110.31:50089/sub?ubX2faC7=txt"},
